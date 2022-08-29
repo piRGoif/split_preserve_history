@@ -10,7 +10,7 @@ Principle :
 * you get files B and C all of which contains A history !
 
 
-Found this procedure in this excellent article : [Splitting files while preserving history in git](https://beyermatthias.de/blog/2014/09/24/splitting-files-while-preserving-history-in-git/).
+Found this procedure in this excellent article : [Splitting files while preserving history in git — musicmatzes blog](https://beyermatthias.de/splitting-files-while-preserving-history-in-git).
 
 See also a tool to automate the process :
 https://github.com/potherca-bash/git-split-file
